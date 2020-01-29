@@ -1,0 +1,58 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JavaWebProject:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaWebProject_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaWebProject" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="aopalliance-1.0.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="asm-5.0.4.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="aspectjweaver-1.6.11.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="c3p0-0.9.1.2.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="cglib-3.2.2.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="commons-dbutils-1.3.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="commons-logging-1.2.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="ehcache-core-2.6.5.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="javassist-3.20.0-GA.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="jstl.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="log4j-1.2.17.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="log4j-api-2.3.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="log4j-core-2.3.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="mybatis-3.4.1.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="mybatis-ehcache-1.0.2.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="mybatis-spring-1.3.0.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="mysql-connector-java-5.1.7-bin.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="slf4j-api-1.7.21.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="slf4j-log4j12-1.7.21.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="spring-aop-4.0.0.RELEASE.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="spring-aspects-4.0.0.RELEASE.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="spring-beans-4.0.0.RELEASE.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="spring-context-4.0.0.RELEASE.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="spring-core-4.0.0.RELEASE.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="spring-expression-4.0.0.RELEASE.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="spring-jdbc-4.0.0.RELEASE.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="spring-orm-4.0.0.RELEASE.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="spring-tx-4.0.0.RELEASE.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="spring-web-4.0.0.RELEASE.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="spring-webmvc-4.0.0.RELEASE.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="standard.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="poi-3.0.2-FINAL-20080204.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="hibernate-validator-4.3.0.Final.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="jboss-logging-3.1.0.CR2.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="validation-api-1.0.0.GA.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="commons-dbcp.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="commons-pool.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="commons-fileupload-1.2.1.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="commons-io-2.4.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="ueditor-1.1.2.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="commons-codec-1.9.jar" module-name="JavaWebProject" />
+          <element id="library" level="module" name="org.json.jar" module-name="JavaWebProject" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="JavaWebProject/web/Web" />
+    </root>
+  </artifact>
+</component>
